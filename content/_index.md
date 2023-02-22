@@ -6,7 +6,7 @@ images:
 
 I am Shelly Sachdev, a Computer Science/ICT teacher and a freelance Technical Writer.
 
-[More](/about "Get to know me better")
+[More](/about/index.html "Get to know me better")
 
 ## My world in one frame
 
